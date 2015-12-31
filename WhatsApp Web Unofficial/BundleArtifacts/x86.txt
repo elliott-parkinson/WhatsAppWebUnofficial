@@ -1,2 +1,0 @@
-MainPackage=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Release\WhatsApp Web Unofficial_1.1.0.0_x86.appx
-SymbolPackage=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\AppPackages\WhatsApp Web Unofficial_1.1.0.0_Test\WhatsApp Web Unofficial_1.1.0.0_x86.appxsym
