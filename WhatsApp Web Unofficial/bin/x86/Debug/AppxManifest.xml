@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="1755f4b1-f628-4035-87dc-9c6790461016" Publisher="CN=elliott" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="44305majora31.WhatsAppWebUnofficial" Publisher="CN=86098A63-E7B6-45EA-B7DA-CF8C3FDE76B0" Version="1.1.0.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="1755f4b1-f628-4035-87dc-9c6790461016" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>WhatsApp Web Unofficial</DisplayName>
-    <PublisherDisplayName>elliott</PublisherDisplayName>
+    <PublisherDisplayName>majora31</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -21,8 +21,8 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="WhatsApp Web Unofficial.exe" EntryPoint="WhatsApp_Web_Unofficial.App">
-      <uap:VisualElements DisplayName="WhatsApp Web Unofficial" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="WhatsApp Web Unofficial" BackgroundColor="transparent">
+    <Application Id="App" Executable="WhatsApp Web.exe" EntryPoint="WhatsApp_Web_Unofficial.App">
+      <uap:VisualElements DisplayName="WhatsApp" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="WhatsApp Web Unofficial" BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"></uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#070A05" />
       </uap:VisualElements>

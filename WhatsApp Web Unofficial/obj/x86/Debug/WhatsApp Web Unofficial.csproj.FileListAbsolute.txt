@@ -206,9 +206,6 @@ C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\ob
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\ApplicationInsights.config
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\App.xbf
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\MainPage.xbf
-C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.xr.xml
-C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.exe
-C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.pdb
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\resources.pri
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\AppxManifest.xml
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\Core\AppxManifest.xml
@@ -320,8 +317,6 @@ C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bi
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\System.Xml.XDocument.dll
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\System.Xml.XmlSerializer.dll
-C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\WhatsApp Web Unofficial.exe
-C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\WhatsApp Web Unofficial.pdb
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\ResourceHandlingTask.state
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
@@ -389,3 +384,9 @@ C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\ob
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\WhatsApp Web Unofficial.csprojResolveAssemblyReference.cache
+C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web.xr.xml
+C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web.exe
+C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web.pdb
+C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\Core\WhatsApp Web.exe
+C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\WhatsApp Web.exe
+C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\WhatsApp Web.pdb
