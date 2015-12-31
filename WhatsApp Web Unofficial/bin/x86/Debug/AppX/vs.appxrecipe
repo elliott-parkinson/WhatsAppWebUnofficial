@@ -9,8 +9,8 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1755f4b1-f628-4035-87dc-9c6790461016</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>FB126F273C0F69A062D8EFAAFDC73E904959F1FF2DE634419A4382DF4B59408D</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EFF20DC0E2E949833264E89B4C05D890E51A556F156866F9F1057569F659B7FA</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>1755f4b1-f628-4035-87dc-9c6790461016_1.0.0.0_x86__j6aadakrasd0y</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>1755f4b1-f628-4035-87dc-9c6790461016_j6aadakrasd0y!App</RegisteredUserModeAppID>
     <RegisteredPackageID>1755f4b1-f628-4035-87dc-9c6790461016</RegisteredPackageID>
@@ -19,16 +19,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-31T04:14:39.291</Modified>
+      <Modified>2015-12-31T05:52:23.792</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.exe">
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.exe">
       <PackagePath>entrypoint\WhatsApp Web Unofficial.exe</PackagePath>
-      <Modified>2015-12-31T04:14:39.031</Modified>
+      <Modified>2015-12-31T05:52:23.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elliott\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -454,63 +454,93 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-12-31T03:47:08.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2015-12-31T03:47:22.723</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:42:55.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:42:55.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:16:07.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:28:28.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:29:00.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:29:20.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-12-31T05:15:38.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:26:25.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:16:00.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:15:46.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:15:51.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:16:07.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-31T05:19:50.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2015-12-31T03:46:58.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.xr.xml">
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\WhatsApp Web Unofficial.xr.xml">
       <PackagePath>WhatsApp Web Unofficial.xr.xml</PackagePath>
       <Modified>2015-12-31T03:51:04.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2015-12-31T03:27:57.223</Modified>
+      <Modified>2015-12-31T04:48:52.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-12-31T04:13:57.005</Modified>
+      <Modified>2015-12-31T05:43:33.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\elliott\documents\visual studio 2015\Projects\WhatsApp Web Unofficial\WhatsApp Web Unofficial\bin\x86\Debug\Core\WhatsApp Web Unofficial.exe">
+    <AppxPackagedFile Include="C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\x86\Debug\Core\WhatsApp Web Unofficial.exe">
       <PackagePath>WhatsApp Web Unofficial.exe</PackagePath>
-      <Modified>2015-12-31T04:14:39.290</Modified>
+      <Modified>2015-12-31T05:52:23.791</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

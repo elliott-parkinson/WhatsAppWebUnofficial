@@ -32,8 +32,13 @@ namespace WhatsApp_Web_Unofficial
         public MainPage()
         {
             this.InitializeComponent();
-            titleBar.BackgroundColor = new Color() { A = 255, R = 54, G = 60, B = 116 };
 
+            var appView = Windows.UI.ViewManagement.ApplicationView.GetForCurrentView();
+            var titleBar = appView.TitleBar;
+
+            titleBar.ButtonForegroundColor = Colors.White;
+            titleBar.ButtonBackgroundColor = Color.FromArgb(1, 0, 150, 136);
+            titleBar.BackgroundColor = Color.FromArgb(1, 0, 150, 136);
         }
 
         public void ChangeUserAgent(string Agent)
@@ -46,46 +51,5 @@ namespace WhatsApp_Web_Unofficial
             ChangeUserAgent("Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36");
             webView1.Navigate(new Uri("http://web.whatsapp.com/", UriKind.Absolute));
         }
-
-        #region Custom title bar 
-        CustomTitleBar customTitleBar = null;
-        public void AddCustomTitleBar()
-        {
-            if (customTitleBar == null)
-            {
-                customTitleBar = new CustomTitleBar();
-                customTitleBar.EnableControlsInTitleBar(areControlsInTitleBar);
-                UIElement mainContent = this.Content;
-                this.Content = null;
-                customTitleBar.SetPageContent(mainContent);
-                this.Content = customTitleBar;
-            }
-        }
-        public void RemoveCustomTitleBar()
-        {
-            if (customTitleBar != null)
-            { 
-                this.Content = customTitleBar.SetPageContent(null);
-                customTitleBar = null;
-            }
-        }
-        bool areControlsInTitleBar = false;
-        public bool AreControlsInTitleBar
-        {
-            get
-            {
-                return areControlsInTitleBar;
-            }
-            set
-            {
-                areControlsInTitleBar = value;
-                if (customTitleBar != null)
-                {
-                    customTitleBar.EnableControlsInTitleBar(value);
-                }
-            }
-        }
-        #endregion
-
     }
 }
