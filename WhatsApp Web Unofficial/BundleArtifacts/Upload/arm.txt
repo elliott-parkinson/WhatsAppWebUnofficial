@@ -1,5 +1,5 @@
-MainPackage=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\ARM\Release\Upload\WhatsApp Web Unofficial_1.1.0.0_ARM.appx
-SymbolPackage=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\AppPackages\WhatsApp Web Unofficial_1.1.0.0\WhatsApp Web Unofficial_1.1.0.0_ARM.appxsym
+MainPackage=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\bin\ARM\Release\Upload\WhatsApp Web Unofficial_1.1.1.0_ARM.appx
+SymbolPackage=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\AppPackages\WhatsApp Web Unofficial_1.1.1.0\WhatsApp Web Unofficial_1.1.1.0_ARM.appxsym
 ResourcePack=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\_scale-100.appx
 ResourcePack=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\_scale-125.appx
 ResourcePack=C:\Users\elliott\Programming\Personal\WhatsApp WebApp\WhatsApp Web Unofficial\_scale-150.appx
